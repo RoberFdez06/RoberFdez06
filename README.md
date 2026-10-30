@@ -1,4 +1,5 @@
 <img width="4128" height="1024" alt="BannerLinkedin" src="https://github.com/user-attachments/assets/ce436a65-356f-41fa-8485-26cd593799ed" />
+
 # Hola, soy Roberto Fernández Mañero
 
 Estudiante de **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en el IES Laguna de Tollón y Técnico en Sistemas Microinformáticos y Redes. Busco empresa para mi **FCT / FP Dual en Sevilla**, preferiblemente en consultoría y desarrollo de software.
