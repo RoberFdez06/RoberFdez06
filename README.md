@@ -1,4 +1,4 @@
-<img width="4128" height="1024" alt="BannerLinkedin" src="https://github.com/user-attachments/assets/ce436a65-356f-41fa-8485-26cd593799ed" />
+<img src="banner.svg" alt="Roberto Fernández Mañero, Desarrollador de Aplicaciones Multiplataforma" width="100%" />
 
 # Hola, soy Roberto Fernández Mañero
 
